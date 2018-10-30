@@ -36,3 +36,5 @@ There are two packages that are used in Java Mail API: javax.mail and javax.mail
 * Java 7/8
 * One Email id with Password
 
+
+###### If you find any mistakes or bugs, please feel free to contact me at samritkamlesh@gmail.com
