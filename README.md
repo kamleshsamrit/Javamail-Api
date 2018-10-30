@@ -17,7 +17,7 @@ There are some protocols that are used in JavaMail API.
   - NNTP and others
   
 ## JavaMail API Core Classes
-There are two packages that are used in Java Mail API: javax.mail and javax.mail.internet package. These packages contains many classes for Java Mail API. They are:
+There are two packages that are used in Java Mail API: **javax.mail** and **javax.mail.internet** package. These packages contains many classes for Java Mail API. They are:
 
   - javax.mail.Session class
   - javax.mail.Message class
